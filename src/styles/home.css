@@ -1,0 +1,23 @@
+
+
+body{
+    display: flex;
+    justify-content: center;
+}
+.box{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: grey;
+}
+
+.box form{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: grey;
+}
